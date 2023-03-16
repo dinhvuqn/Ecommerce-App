@@ -26,8 +26,8 @@ a {
 
 /* Header Part */
 .header-top-strip {
-  border-bottom: 1px solid var(--color-3b4149);
   background-color: var(--color-131921);
+  border-bottom: 1px solid var(--color-3b4149);
 }
 
 .header-upper {
